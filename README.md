@@ -1,6 +1,6 @@
 # Paul C. | Analyste SOC Niveau 1 🛡️
 
-🔵 Blue Team | BTL1 - Blue Team Level 1 | Splunk Core Certified | TryHackMe SOC L1
+🔵 Blue Team | BTL1 - Blue Team Level 1 | Microsoft Certified - SC 200 | TryHackMe SOC L1
 
 ---
 
