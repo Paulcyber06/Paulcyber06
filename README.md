@@ -54,8 +54,8 @@ Cette enquête est une série de 7 épisodes reconstituant une attaque de bout e
 
 | Certification | Statut |
 |:---:|:---:|
-| Splunk Core Certified User | en cours |
-| BTL1 – Blue Team Level 1 | en cours |
+| Microsoft Certified - SC 200 | en cours |
+| BTL1 – Blue Team Level 1 | ✅ Obtenu |
 | TryHackMe – SOC Level 1 | ✅ Obtenu |
 | TryHackMe – Pre-Security | ✅ Obtenu |
 | Cisco – Networking Basics | ✅ Obtenu |
